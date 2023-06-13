@@ -1,0 +1,440 @@
+﻿<process name="Notepad Bot" version="1.0" bpversion="7.1.2.3518" narrative="rter" byrefcollection="true" type="object" runmode="Exclusive" preferredid="43d120cb-17a0-4c14-b47a-4f1dba06e19e">
+  <appdef>
+    <element name="Notepad Bot">
+      <id>1dbb2b96-5e19-47c7-a4c6-cb613146e02a</id>
+      <element name="Main Window">
+        <id>81fec500-b43d-408d-8c09-c98f94f79c76</id>
+        <type>Edit</type>
+        <basetype>Edit</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="WindowText" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="ClassName" inuse="True">
+            <ProcessValue datatype="text" value="Edit" />
+          </attribute>
+          <attribute name="CtrlID">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="753" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="436" />
+          </attribute>
+          <attribute name="Visible" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="ScreenVisible" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Enabled" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Active">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="Ordinal">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="ChildCount">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="AncestorsText">
+            <ProcessValue datatype="text" value="Untitled - Notepad &lt;UNKNOWN&gt; " />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="2" />
+          </attribute>
+          <attribute name="TypeName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:48,149,567,783" />
+          </attribute>
+          <attribute name="Style">
+            <ProcessValue datatype="number" value="1345323268" />
+          </attribute>
+          <attribute name="pWindowText">
+            <ProcessValue datatype="text" value="Untitled - Notepad" />
+          </attribute>
+          <attribute name="pClassName">
+            <ProcessValue datatype="text" value="Notepad" />
+          </attribute>
+          <attribute name="pCtrlID">
+            <ProcessValue datatype="number" value="371648" />
+          </attribute>
+          <attribute name="pX">
+            <ProcessValue datatype="number" value="40" />
+          </attribute>
+          <attribute name="pY">
+            <ProcessValue datatype="number" value="98" />
+          </attribute>
+          <attribute name="pWidth">
+            <ProcessValue datatype="number" value="769" />
+          </attribute>
+          <attribute name="pHeight">
+            <ProcessValue datatype="number" value="518" />
+          </attribute>
+          <attribute name="pVisible">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="pScreenVisible">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="pEnabled">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="pActive">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="pOrdinal">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="pChildCount">
+            <ProcessValue datatype="number" value="2" />
+          </attribute>
+          <attribute name="pChecked">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="pStyle">
+            <ProcessValue datatype="number" value="1345323268" />
+          </attribute>
+          <attribute name="matchindex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="matchreverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="Text Area">
+        <id>dfa1e0ae-2e92-46ed-9425-79ec4f3edae0</id>
+        <type>Edit</type>
+        <basetype>Edit</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="WindowText" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="ClassName" inuse="True">
+            <ProcessValue datatype="text" value="Edit" />
+          </attribute>
+          <attribute name="CtrlID">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="753" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="436" />
+          </attribute>
+          <attribute name="Visible" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="ScreenVisible" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Enabled" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Active">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="Ordinal">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="ChildCount">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="AncestorsText">
+            <ProcessValue datatype="text" value="Untitled - Notepad &lt;UNKNOWN&gt; " />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="2" />
+          </attribute>
+          <attribute name="TypeName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:48,149,567,783" />
+          </attribute>
+          <attribute name="Style">
+            <ProcessValue datatype="number" value="1345323268" />
+          </attribute>
+          <attribute name="pWindowText">
+            <ProcessValue datatype="text" value="Untitled - Notepad" />
+          </attribute>
+          <attribute name="pClassName">
+            <ProcessValue datatype="text" value="Notepad" />
+          </attribute>
+          <attribute name="pCtrlID">
+            <ProcessValue datatype="number" value="371648" />
+          </attribute>
+          <attribute name="pX">
+            <ProcessValue datatype="number" value="40" />
+          </attribute>
+          <attribute name="pY">
+            <ProcessValue datatype="number" value="98" />
+          </attribute>
+          <attribute name="pWidth">
+            <ProcessValue datatype="number" value="769" />
+          </attribute>
+          <attribute name="pHeight">
+            <ProcessValue datatype="number" value="518" />
+          </attribute>
+          <attribute name="pVisible">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="pScreenVisible">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="pEnabled">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="pActive">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="pOrdinal">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="pChildCount">
+            <ProcessValue datatype="number" value="2" />
+          </attribute>
+          <attribute name="pChecked">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="pStyle">
+            <ProcessValue datatype="number" value="1345323268" />
+          </attribute>
+          <attribute name="matchindex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="matchreverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <type>Application</type>
+      <basetype>Application</basetype>
+      <datatype>unknown</datatype>
+      <diagnose>False</diagnose>
+    </element>
+    <apptypeinfo>
+      <id>Win32Launch</id>
+      <parameters>
+        <parameter>
+          <name>Path</name>
+          <value>C:\Windows\notepad.exe</value>
+        </parameter>
+        <parameter>
+          <name>CommandLineParams</name>
+          <value>
+          </value>
+        </parameter>
+        <parameter>
+          <name>WorkingDirectory</name>
+          <value>
+          </value>
+        </parameter>
+        <parameter>
+          <name>NonInvasive</name>
+          <value>True</value>
+        </parameter>
+        <parameter>
+          <name>ProcessMode</name>
+          <value>Internal</value>
+        </parameter>
+        <parameter>
+          <name>ExternalProcessTimeout</name>
+          <value>0</value>
+        </parameter>
+        <parameter>
+          <name>Options</name>
+          <value>
+          </value>
+        </parameter>
+      </parameters>
+    </apptypeinfo>
+  </appdef>
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <subsheet subsheetid="5bcda154-2217-45ca-96fe-4b61282966b8" type="CleanUp" published="True">
+    <name>Clean Up</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="574b9e0f-c461-47e2-bd5b-eea907f3866a" type="Normal" published="False">
+    <name>Notepad</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <stage stageid="6be48942-0108-4e04-b973-2394e903126f" name="Start" type="Start">
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>77e79e63-c385-4381-ad7c-15c827c9d7b1</onsuccess>
+  </stage>
+  <stage stageid="77e79e63-c385-4381-ad7c-15c827c9d7b1" name="End" type="End">
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="a46231cb-e9ed-42a4-9ed0-281ba6fc8e90" name="Stage1" type="ProcessInfo">
+    <display x="-195" y="-105" w="150" h="90" />
+    <references>
+      <reference>System.dll</reference>
+      <reference>System.Data.dll</reference>
+      <reference>System.Xml.dll</reference>
+      <reference>System.Drawing.dll</reference>
+    </references>
+    <imports>
+      <import>System</import>
+      <import>System.Drawing</import>
+      <import>System.Data</import>
+    </imports>
+    <language>visualbasic</language>
+    <globalcode><![CDATA[]]></globalcode>
+    <code><![CDATA[]]></code>
+  </stage>
+  <stage stageid="791ab654-4112-422b-937b-5f7976768269" name="Clean Up" type="SubSheetInfo">
+    <subsheetid>5bcda154-2217-45ca-96fe-4b61282966b8</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="7ed44f15-5781-4350-9836-970c1ed1f340" name="Start" type="Start">
+    <subsheetid>5bcda154-2217-45ca-96fe-4b61282966b8</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>f840a4f6-c176-40bd-b46a-c8000633549a</onsuccess>
+  </stage>
+  <stage stageid="f840a4f6-c176-40bd-b46a-c8000633549a" name="End" type="End">
+    <subsheetid>5bcda154-2217-45ca-96fe-4b61282966b8</subsheetid>
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="7c352950-03ec-43a7-a441-9576c229fe56" name="Notepad" type="SubSheetInfo">
+    <subsheetid>574b9e0f-c461-47e2-bd5b-eea907f3866a</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="d95995f4-2516-4502-ab34-b5a465d4decc" name="Start" type="Start">
+    <subsheetid>574b9e0f-c461-47e2-bd5b-eea907f3866a</subsheetid>
+    <loginhibit />
+    <display x="15" y="-135" />
+    <onsuccess>88b5466c-0370-4571-85d2-df3bc3e30a85</onsuccess>
+  </stage>
+  <stage stageid="8cc12e07-c1cb-44fd-93b9-af433fd20cd1" name="End" type="End">
+    <subsheetid>574b9e0f-c461-47e2-bd5b-eea907f3866a</subsheetid>
+    <loginhibit />
+    <display x="15" y="150" />
+  </stage>
+  <stage stageid="19eafc0b-6562-4107-8831-397689a67db4" name="" type="Note">
+    <subsheetid>5bcda154-2217-45ca-96fe-4b61282966b8</subsheetid>
+    <narrative>Clean Up Page
+
+This is an optional page where you might choose to perform some finalisation (or "cleanup") tasks as your business object is closed down.
+
+The cleanup action will be called automatically immediately after closing your business object at the end of a business process.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than before the disposal of the business object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="e5b63e3f-2bf5-4e24-89f0-a592fbebd978" name="" type="Note">
+    <narrative>Initialise Page
+
+This is an optional page where you might choose to perform some initialisation tasks after your business object is loaded.
+
+The initialise action will be called automatically immediately after loading your business object.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than after the creation of the object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="88b5466c-0370-4571-85d2-df3bc3e30a85" name="Lauch" type="Navigate">
+    <subsheetid>574b9e0f-c461-47e2-bd5b-eea907f3866a</subsheetid>
+    <loginhibit />
+    <display x="15" y="-75" />
+    <onsuccess>41184661-8e50-4705-b485-33f149e044bc</onsuccess>
+    <step>
+      <element id="1dbb2b96-5e19-47c7-a4c6-cb613146e02a" />
+      <action>
+        <id>Launch</id>
+        <arguments>
+          <argument>
+            <id>Path</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>CommandLineParams</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>WorkingDirectory</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>NonInvasive</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>ProcessMode</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>Options</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="99f88dec-51cb-4b84-9959-421b9504c791" name="Terminate" type="Navigate">
+    <subsheetid>574b9e0f-c461-47e2-bd5b-eea907f3866a</subsheetid>
+    <loginhibit />
+    <display x="15" y="75" />
+    <onsuccess>8cc12e07-c1cb-44fd-93b9-af433fd20cd1</onsuccess>
+    <step>
+      <element id="1dbb2b96-5e19-47c7-a4c6-cb613146e02a" />
+      <action>
+        <id>Terminate</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="41184661-8e50-4705-b485-33f149e044bc" name="Writer1" type="Write">
+    <subsheetid>574b9e0f-c461-47e2-bd5b-eea907f3866a</subsheetid>
+    <loginhibit />
+    <display x="15" y="0" />
+    <onsuccess>99f88dec-51cb-4b84-9959-421b9504c791</onsuccess>
+    <step expr="&quot;Hi, How are You&quot;">
+      <element id="dfa1e0ae-2e92-46ed-9425-79ec4f3edae0" />
+    </step>
+  </stage>
+</process>
